@@ -3,7 +3,8 @@ This is Snake game, developed by HTML, CSS and JavaScript.
 Its a one player game, It will count Score and also show HighScores as well. User can play it with Keyborad arrows key, with up key
 snake will move to upwards and viceversa for other arrow keys as well
 Motive of this is to get the snake to one point, Everytime Snake touch that Blinking point, Snake will get bigger and User will see that point on that Playing board again. 
-If Snake touch itelf, User will get out, have to start again
+If Snake touch itelf, User will get out, have to start again.
+there is Music as well. Whenever snake catches that point or it gets out. 
 
 #Making of code
 There is only 1 file, index.html
